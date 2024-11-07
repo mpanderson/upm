@@ -476,6 +476,7 @@
   "pyliblo":{"deps":["pkgs.liblo"]},
   "pylibmc":{"deps":["pkgs.cyrus_sasl","pkgs.libmemcached","pkgs.zlib"]},
   "pymatgen":{"deps":["pkgs.glibcLocales"]},
+  "pymc3":{"deps":["pkgs.pymc3"]},
   "pymdown-extensions":{"deps":["pkgs.hydrus"]},
   "pymediainfo":{"deps":["pkgs.glibcLocales","pkgs.libmediainfo"]},
   "pymilter":{"deps":["pkgs.iana-etc","pkgs.libmilter"]},
